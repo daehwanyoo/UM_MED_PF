@@ -1,1 +1,2 @@
 Pulmonary Fibrosis analysis based on CT
+This project focuses on predicting pulmonary fibrosis progression using a blend of quantile regression and Convolutional Neural Networks (CNN). It leverages EfficientNet for image processing and tabular data integration to model the Forced Vital Capacity (FVC) decline in patients. The approach also incorporates quantile loss functions to account for prediction uncertainty, ensuring more accurate and reliable predictions.
